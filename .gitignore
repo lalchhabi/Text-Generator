@@ -1,0 +1,6 @@
+text_generator
+*.jpg
+*.png
+*.pt
+*.pth
+.ipynb_checkpoints
